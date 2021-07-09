@@ -1,3 +1,5 @@
+# Chess!
+
 Chess Game, with a Graphical User Interface written in Java.
 The game offers two modes, 1) vs. Human 2) vs. Computer
 
@@ -5,7 +7,7 @@ The game offers two modes, 1) vs. Human 2) vs. Computer
 
 To run
 ------
-All of the java files are in the source folder. Simply compile them with javac (or use any build tool you'd like)
+All of the java files are in the source folder. To run, compile them
 and run InitiateProgram
 
 Background 
