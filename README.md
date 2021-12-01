@@ -20,7 +20,7 @@ objects (their data), recursion, and artificial intelligence.
 The artificial intelligence started with random moves, but transitioned to the minimax algorithm with 
 alpha-beta pruning. The engine thinks 4 moves ahead, and is not as fast as desired. The project taught
 me the importance of algorithms, and how they drastically change the performance of run-time performance.
-Not only this, but also how the the size of the data you manipulate with algorithms also makes a considerable
+Not only this, but also how the size of the data you manipulate with algorithms also makes a considerable
 difference. 
 
 Moving forward from this program, I applied better planning and more careful selection of algorithms / data
